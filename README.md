@@ -165,7 +165,7 @@
   <tr>
     <td align="center" valign="middle">
       <a href="https://github.com/khandaitpiyush">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=khandaitpiyush&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=contribs&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=khandaitpiyush&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs,issues&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center" valign="middle">
@@ -179,7 +179,7 @@
 <br/>
 
 <a href="https://github.com/khandaitpiyush">
-  <img src="https://streak-stats.demolab.com?user=khandaitpiyush&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=khandaitpiyush&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&v=3" alt="GitHub Streak" />
 </a>
 
 </div>
