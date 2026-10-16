@@ -22,6 +22,9 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/khandaitpiyush">
+    <img src="https://img.shields.io/badge/Contributions-345_in_the_last_year-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="345 Contributions in the last year" />
+  </a>
+  <a href="https://github.com/khandaitpiyush">
     <img src="https://komarev.com/ghpvc/?username=khandaitpiyush&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </p>
@@ -42,6 +45,7 @@
 - 🎓 **Education**: IT Engineering Student at **Don Bosco Institute of Technology (DBIT), Mumbai**.
 - 🚀 **Founder & Lead Engineer** at **[NexGo Tech](https://nexgo-org.tech)** — designing, developing, and deploying production-grade commercial web platforms and client software.
 - 💻 **Full-Stack Engineering**: Focused on high-performance web applications using **React, TypeScript, Node.js, Express, and MongoDB**.
+- 📈 **Active Shipping**: **345 contributions in the last year** across client SaaS, hackathons, and software projects.
 - 🏆 **Milestones**: Smart India Hackathon (SIH) Participant • MongoDB Certified Developer.
 - 🧠 **Current Focus**: Honing **DSA in C++**, mastering **System Design & API architecture**, and exploring practical **AI agentic workflows**.
 
@@ -149,11 +153,17 @@
 
 <div align="center">
 
+<a href="https://github.com/khandaitpiyush">
+  <img src="https://img.shields.io/badge/GitHub_Contributions-345_in_the_last_year-238636?style=for-the-badge&logo=github&logoColor=white" alt="345 contributions in the last year" />
+</a>
+
+<br/><br/>
+
 <table border="0">
   <tr>
     <td align="center" valign="middle">
       <a href="https://github.com/khandaitpiyush">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=khandaitpiyush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=khandaitpiyush&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=contribs&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center" valign="middle">
