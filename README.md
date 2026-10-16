@@ -164,13 +164,13 @@
 <table border="0">
   <tr>
     <td align="center" valign="middle">
-      <a href="https://github.com/khandaitpiyush">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=khandaitpiyush&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs,issues&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
+      <a href="https://github.com/khandaitpiyush/pass-it-on">
+        <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=khandaitpiyush&repo=pass-it-on&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="Pass It On Project" />
       </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://github.com/khandaitpiyush">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandaitpiyush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandaitpiyush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
       </a>
     </td>
   </tr>
