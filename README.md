@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/khandaitpiyush">
-    <img src="https://img.shields.io/badge/Contributions-345_in_the_last_year-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="345 Contributions in the last year" />
+    <img src="https://img.shields.io/badge/Contributions-346_in_the_last_year-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="346 Contributions in the last year" />
   </a>
   <a href="https://github.com/khandaitpiyush">
     <img src="https://komarev.com/ghpvc/?username=khandaitpiyush&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -31,7 +31,9 @@
 
 <!-- Opportunity Status -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Software%20Engineering%20Opportunities-22c55e?style=flat-square&logo=target&logoColor=white" alt="Status" />
+  <a href="https://www.linkedin.com/in/piyush-khandait-39930b222/" target="_blank">
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Software%20Engineering%20Opportunities-22c55e?style=flat-square&logo=target&logoColor=white" alt="Open to Software Engineering Opportunities" />
+  </a>
 </p>
 
 </div>
@@ -45,7 +47,7 @@
 - 🎓 **Education**: IT Engineering Student at **Don Bosco Institute of Technology (DBIT), Mumbai**.
 - 🚀 **Founder & Lead Engineer** at **[NexGo Tech](https://nexgo-org.tech)** — designing, developing, and deploying production-grade commercial web platforms and client software.
 - 💻 **Full-Stack Engineering**: Focused on high-performance web applications using **React, TypeScript, Node.js, Express, and MongoDB**.
-- 📈 **Active Shipping**: **345 contributions in the last year** across client SaaS, hackathons, and software projects.
+- 📈 **Active Shipping**: **346 contributions in the last year** across client SaaS, hackathons, and software projects.
 - 🏆 **Milestones**: Smart India Hackathon (SIH) Participant • MongoDB Certified Developer.
 - 🧠 **Current Focus**: Honing **DSA in C++**, mastering **System Design & API architecture**, and exploring practical **AI agentic workflows**.
 
@@ -154,7 +156,7 @@
 <div align="center">
 
 <a href="https://github.com/khandaitpiyush">
-  <img src="https://img.shields.io/badge/GitHub_Contributions-345_in_the_last_year-238636?style=for-the-badge&logo=github&logoColor=white" alt="345 contributions in the last year" />
+  <img src="https://img.shields.io/badge/GitHub_Contributions-346_in_the_last_year-238636?style=for-the-badge&logo=github&logoColor=white" alt="346 contributions in the last year" />
 </a>
 
 <br/><br/>
