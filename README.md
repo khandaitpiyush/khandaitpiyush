@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <b>Information Technology @ DBIT Mumbai • Founder @ NexGo Tech • Full-Stack Engineer</b>
+  <b>Information Technology @ DBIT Mumbai • Founder @ NexGo Tech • Problem Solver</b>
 </p>
 
 <!-- Badges & Social Links -->
@@ -26,66 +26,28 @@
   </a>
 </p>
 
-<!-- Opportunity & Mode Badges -->
+<!-- Opportunity Status -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Software%20Engineering%20Opportunities-22c55e?style=flat-square&logo=target&logoColor=white" alt="Status" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vibing_To-Lo--Fi_Beats_&_Shipping_Code-8b5cf6?style=flat-square&logo=spotify&logoColor=1DB954" alt="Spotify Vibe" />
 </p>
 
 </div>
 
 ---
 
-### 💻 Developer Terminal
+### 👨‍💻 About Me
 
-<table width="100%">
-<tr>
-<td>
-<div>
-  <b>🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp; &nbsp; <code>piyush@workstation: ~/developer/profile</code></b>
-</div>
-<hr/>
-<pre>
-<code><b>$ whoami</b>
-❯ Piyush Prashant Khandait — Software Engineer &amp; Full-Stack Product Builder
+> *"Consistency beats intensity. Build scalable systems, ship fast, and obsess over details."*
 
-<b>$ nexgo-tech --status</b>
-❯ [VENTURE ACTIVE] Architecting digital systems, client platforms &amp; commercial SaaS
-❯ Production deployments: Fitcamp (<a href="https://fitcamp.in" target="_blank">fitcamp.in</a>) &amp; Cacky Cake (<a href="https://cackycake.live" target="_blank">cackycake.live</a>)
-
-<b>$ cat current_focus_2026.json</b>
-{
-  "education": "Information Technology @ Don Bosco Institute of Technology, Mumbai",
-  "active_milestones": ["Smart India Hackathon (SIH) Participant", "MongoDB Certified Developer"],
-  "core_stack": ["React", "TypeScript", "Node.js", "Express", "MongoDB", "C++"],
-  "engineering_focus": "System Design, Microservices, and AI-Powered Application Workflows",
-  "availability": "Open for Software Engineering Internships &amp; Technical Collaborations"
-}
-
-<b>$ git commit -m "Consistency beats intensity. Keep building, keep shipping."</b>
-[main 2026-ACTIVE] 100% committed to engineering excellence ✨
-</code>
-</pre>
-</td>
-</tr>
-</table>
+- 🎓 **Education**: IT Engineering Student at **Don Bosco Institute of Technology (DBIT), Mumbai**.
+- 🚀 **Founder & Lead Engineer** at **[NexGo Tech](https://nexgo-org.tech)** — designing, developing, and deploying production-grade commercial web platforms and client software.
+- 💻 **Full-Stack Engineering**: Focused on high-performance web applications using **React, TypeScript, Node.js, Express, and MongoDB**.
+- 🏆 **Milestones**: Smart India Hackathon (SIH) Participant • MongoDB Certified Developer.
+- 🧠 **Current Focus**: Honing **DSA in C++**, mastering **System Design & API architecture**, and exploring practical **AI agentic workflows**.
 
 ---
 
-### 🚀 2026 Active Roadmap & Engineering Matrix
-
-| Focus Area | Stack & Technologies | Active 2026 Deliverables |
-| :--- | :--- | :--- |
-| **Frontend Architecture** | React, Next.js, TypeScript, Tailwind CSS, Vite | Building fast, accessible UI components with zero layout shift |
-| **Backend & APIs** | Node.js, Express, REST APIs, JWT Authentication | Developing resilient API gateways, auth systems & rate limiting |
-| **Databases & Cache** | MongoDB, Mongoose ODM, PostgreSQL, Redis | Designing clean data models, indexing & high-throughput queries |
-| **Core Problem Solving** | C++, Data Structures & Algorithms | Solving complex algorithmic problems & algorithmic optimization |
-| **Venture & Delivery** | **NexGo Tech** (`nexgo-org.tech`) | Shipping real-world SaaS platforms & client web solutions |
-
----
-
-### 🌟 Featured Products & Client Works
+### 🚀 Featured Products & Projects
 
 <table>
   <tr>
@@ -147,19 +109,6 @@
   </tr>
 </table>
 
-<!-- Live Repository Cards -->
-<div align="center">
-
-<a href="https://github.com/khandaitpiyush/pass-it-on">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=khandaitpiyush&repo=pass-it-on&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="Pass It On Repo" />
-</a>
-&nbsp;
-<a href="https://github.com/khandaitpiyush/customer-support-crm">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=khandaitpiyush&repo=customer-support-crm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="Support CRM Repo" />
-</a>
-
-</div>
-
 ---
 
 ### 🛠️ Tech Stack & Arsenal
@@ -204,7 +153,7 @@
   <tr>
     <td align="center" valign="middle">
       <a href="https://github.com/khandaitpiyush">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=khandaitpiyush&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=contribs&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="Total GitHub Stats" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=khandaitpiyush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center" valign="middle">
@@ -230,21 +179,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/khandaitpiyush/khandaitpiyush/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
-
----
-
-### 💡 Engineering Principles
-
-<details>
-<summary><b>⚡ Click to expand: Architecture & Code Philosophy</b></summary>
-<br/>
-
-- **Ship Value Quickly, Iterate Relentlessly**: Perfection is the enemy of shipped software. Build a rock-solid MVP, put it in front of users, and optimize based on real data.
-- **Clean Architecture over Clever Code**: Write code that is maintainable, self-documenting, and easy for future contributors (or future you) to understand.
-- **Fail Gracefully**: Implement robust error handling, typed boundaries (TypeScript), and sensible fallback states at every network layer.
-- **Customer & User Centric**: Whether it's the Fitcamp gym owners or Pass-It-On community members, every line of code serves the end-user experience.
-
-</details>
 
 ---
 
